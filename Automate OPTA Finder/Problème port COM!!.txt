@@ -1,0 +1,5 @@
+Dans ce dossier (...mbed_opta\4.5.0\drivers), faites un double-clic sur le fichier dpinst-amd64.exe.
+
+Suivez les instructions à l'écran pour installer les pilotes.
+
+Une fois terminé, débranchez et rebranchez votre Opta. Le triangle jaune sur @Internal Flash disparait du gestionnaire de périphérique ?
